@@ -2,8 +2,6 @@
     <img src="resources/banner.png">
 </p>
 
-# 韓国語ー日本語文字・発音対応票
-
 このレポジトリは韓国語文字（ハングル）を読めたい人達をために作りました。もし違い部分を見つかったら、どうかISSUEやPRお願いいたします。
 
 要約本は[こちら](documents/how-to-read-hangul.pdf)えどうぞ。
